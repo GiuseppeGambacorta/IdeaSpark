@@ -1,7 +1,1 @@
-# IDEASPARK-OLED-TIME
-## Code to display time on an ideaspark esp8266096oled
-
-Platform IO seems to have a problem with reseting this board.
-The serial monitor shows garbage "sometimes"
-
-Power off to reset the board and it should work.
+Basic template for platform IO for a Ideaspark ESP-WROOM-32
